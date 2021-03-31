@@ -1,0 +1,23 @@
+{
+  "name": "qxcgitbook",
+  "version": "1.0.0",
+  "description": "自动化构建仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qiaoxiaocan/qxcgitbook.git"
+  },
+  "keywords": [],
+  "author": "qxc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Qiaoxiaocan/qxcgitbook/issues"
+  },
+  "homepage": "https://github.com/Qiaoxiaocan/qxcgitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
